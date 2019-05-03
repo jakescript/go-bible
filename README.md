@@ -47,3 +47,5 @@ code from basic conditional statements and different types to concepts like recu
 * [Applied Go](https://appliedgo.net/): A blog that has a ton of useful guides and tutorials.
 
 * [Todd McLeod - Learn GoLang](https://greatercommons.com/learn/golang): Todd McLeod is another name you should remember especially if you are self educating. This course is on Greater Commons which he founded. He has an amazing way of teaching and really bringing you to understand exactly how everything is working. The message he carries with him is very genuine and his motive is just to help people and spread positivity and goodness. I say let his classes speak for him and you will not be disappointed...there is a reason this class literally only has 5 star reviews.
+
+* [Allocation efficiency in high-performance Go services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/): Blog about allocation efficiency to consider when building high-performant Go services
