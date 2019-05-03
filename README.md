@@ -1,7 +1,7 @@
 # go-bible
 the following contains blogs, videos, tutorials, explinations and whatever else I come across and want to share
-with whoever is reading this now. Use all the reserouces you can I just ask that you add something,
-leave the message as how it helped you out, and **share with a friend** or anyway you can.
+with whoever is reading this now. Use all the resources you can I just ask that you add something,
+leave a message as to how it helped you out, and **share with a friend** or anyway you can.
 
 *Together we can build the perfect go-bible!*
 
