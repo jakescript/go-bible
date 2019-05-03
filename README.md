@@ -1,5 +1,5 @@
 # go-bible
-the following contains blogs, videos, tutorials, explinations and whatever else I come across and want to share
+the following contains blogs, videos, tutorials, explanations and whatever else I come across and want to share
 with whoever is reading this now. Use all the resources you can I just ask that you add something,
 leave a message as to how it helped you out, and **share with a friend** or anyway you can.
 
@@ -7,12 +7,12 @@ leave a message as to how it helped you out, and **share with a friend** or anyw
 
 ----
 
-* [Go By Example](https://gobyexample.com/ "Go By Example"): Nice little list of some examples with explinations of go
+* [Go By Example](https://gobyexample.com/ "Go By Example"): Nice little list of some examples with explanations of go
 code from basic conditional statements and different types to concepts like recursion even includes some on Parsing and Hashing.
 
 * [Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers): Dave Cheney's blog in general is a great place to be in the first place, but this is a list he created has a ton more links to even more resources! How great is that! 
 
-* [Golang Bootcamp](http://www.golangbootcamp.com/book/): I really like this one because its a nicely organized eBook with some fairly deeper detailing as a beginners guide. I found it useful when another resource didnt go deep enough.
+* [Golang Bootcamp](http://www.golangbootcamp.com/book/): I really like this one because its a nicely organized eBook with some fairly deeper detailing as a beginners guide. I found it useful when another resource didn't go deep enough.
 
 * [Russ Cox On Go](https://research.swtch.com/gotour): This is a nice talk and is called a "Tour of go" for a reason and this talk eventually gets into building a little web crawler so its worth checking out for sure.
 
@@ -26,7 +26,7 @@ code from basic conditional statements and different types to concepts like recu
 
 * [Why Go?](https://yourbasic.org/golang/advantages-over-java-python/): Have you asked yourself that question? Maybe you should read this :)
 
-* [Less is Exponentially More - Rob Pike](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html): If you are unaware of who Rob Pike is, he is one of the founders of Go and a very intelligant man who's name you should remember. This is an article he wrote I found somewhere about why they created go and is a humbling and beautiful article to read! 
+* [Less is Exponentially More - Rob Pike](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html): If you are unaware of who Rob Pike is, he is one of the founders of Go and a very intelligent man who's name you should remember. This is an article he wrote I found somewhere about why they created go and is a humbling and beautiful article to read! 
 
 * [Thinking In Go](https://actuallyachraf.github.io/posts/thinking-go/): A short article on go's simplicity. Take a look
 
@@ -40,7 +40,7 @@ code from basic conditional statements and different types to concepts like recu
 
 * [More Interface Stuff](https://medium.com/rungo/interfaces-in-go-ab1601159b3a): A very long and detailed medium article about interfaces in go.
 
-* [Guide To Go](https://www.calhoun.io/guide-to-go/): This is from Jon Calhoun's blog but I added it seperate because it probably contains some of the most useful resources I have found or has lead me to find. 
+* [Guide To Go](https://www.calhoun.io/guide-to-go/): This is from Jon Calhoun's blog but I added it separate because it probably contains some of the most useful resources I have found or has lead me to find. 
 
 * [Mastering Go Course](https://appliedgo.com/p/mastergo): I have not yet taken this course myself and I plan on updating this one day when I do. I also have absolutely no affiliation with whoever made the course but it looks pretty good and interesting just a little pricey.
 
